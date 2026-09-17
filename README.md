@@ -2,7 +2,7 @@
 
 A Fall 2023 UC Berkeley DATASCI 266 team project comparing text-classification approaches on a labeled comment dataset.
 
-**Team:** Cynthia Rosales and Emiliano “Neal” Vazquez. This is collaborative coursework, not a deployed moderation system.
+**Team:** Cynthia Rosales and Neal Vazquez. This is collaborative coursework, not a deployed moderation system.
 
 [Project report](Hate_Speech_Classification_Albert.pdf) · [Recorded notebook](Hate_Speech_Classification_Albert.ipynb) · [Neal's professional background](https://neal-vazquez.com/consulting/resume)
 
