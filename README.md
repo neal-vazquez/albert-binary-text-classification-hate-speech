@@ -1,3 +1,5 @@
+> **Project moved:** this study now lives in the [Academic Research collection](https://github.com/neal-vazquez/neal-vazquez-site-public/tree/main/consulting-career/academic/berkeley/albert-hate-speech). This repository retains the original history and existing links.
+
 # Hate Speech Classification with ALBERT
 
 A Fall 2023 UC Berkeley DATASCI 266 team project comparing text-classification approaches on a labeled comment dataset.
